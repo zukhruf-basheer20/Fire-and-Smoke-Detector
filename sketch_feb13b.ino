@@ -7,9 +7,9 @@
 #include <ESP8266WiFi.h>
 #include "BlynkSimpleEsp8266.h"
 
-char auth[] = "j3DwmYklUEO_C0709afPFqELsAd0IXov";
-char ssid[] = "Zukhruf";
-char pass[] = "abcdefghigk";
+char auth[] = "authkey";
+char ssid[] = "wifi key";
+char pass[] = "wifi password";
 
 BlynkTimer timer;
 int pinValue = 0;
